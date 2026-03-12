@@ -5,7 +5,7 @@ public class PerfilDev {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Bem-vindo ao sistema de perfil de desenvolvedor do chico corinthiano!");
-        System.out.print("Digite seu nome: ");
+        System.out.print("Digite seu nome e sobrenome: ");
         String nome = scanner.nextLine();
 
         System.out.print("Digite sua idade: ");
