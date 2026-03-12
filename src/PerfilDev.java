@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // importando Scanner    
 
 public class PerfilDev {
     public static void main(String[] args) {
